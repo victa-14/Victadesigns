@@ -1,0 +1,19 @@
+victatechdesigns-site/
+├── index.html
+└── images/
+    ├── logo.png          ← put your logo here (as logo.png)
+    ├── README.txt        ← instructions
+    ├── portfolio/        ← your project images
+    │   ├── branding-1.jpg
+    │   ├── branding-2.jpg
+    │   ├── branding-3.jpg
+    │   ├── website-1.jpg
+    │   ├── website-2.jpg
+    │   ├── social-1.jpg
+    │   ├── social-2.jpg
+    │   └── other-1.jpg
+    └── team/             ← team photos
+        ├── ssserwanja.jpg
+        ├── web-developer.jpg
+        ├── social-media.jpg
+        └── bugembe-samson.jpg
